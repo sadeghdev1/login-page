@@ -75,14 +75,3 @@ body {
   box-shadow: 0 0 20px rgba(106, 0, 244, 0.6), 0 0 30px rgba(0, 255, 200, 0.5);
 }
 
-@media (max-width: 480px) {
-  .login-card {
-    padding: 1.2rem;
-    max-width: 90%;
-  }
-
-  .login-card input,
-  .login-card button {
-    font-size: 14px;
-  }
-}
