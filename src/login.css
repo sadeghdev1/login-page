@@ -28,6 +28,10 @@ body {
   border: 1px solid rgba(255, 255, 255, 0.2);
   box-shadow: 0 0 20px rgba(106, 0, 244, 0.6), 0 0 40px rgba(0, 255, 200, 0.4);
   animation: glowing 3s ease-in-out infinite alternate;
+  transition: .4s ease-in-out;
+}
+.login-card:hover {
+  transform: scale(1.02);
 }
 
 @keyframes glowing {
@@ -52,6 +56,6 @@ body {
 }
 
 .login-card button:hover {
-  transform: scale(1.05);
+  transform: scale(1.04);
   box-shadow: 0 0 20px rgba(106, 0, 244, 0.6), 0 0 30px rgba(0, 255, 200, 0.5);
 }
