@@ -9,7 +9,7 @@ This mini-project demonstrates a fully responsive login interface with **interac
 
 - Fully responsive design (mobile & desktop)
 - Modern **glass-style UI** with glowing effects
-- **Interactive inputs** using Material-UI TextFields
+- **Interactive inputs** using Material UI TextFields
 - Smooth **hover and focus animations**
 - Mini project ideal for **React.js practice** and portfolio showcase
 
