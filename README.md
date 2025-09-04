@@ -1,6 +1,6 @@
 # Login Page
 
-A sleek and modern **Login Page** built with **React.js**.  
+A sleek and modern **Login Page** built with **React.js** and **Vite**.  
 This mini-project demonstrates a fully responsive login interface with **interactive UI**, **glowing effects**, and a smooth **glassmorphism style** similar to GitHub and iPhone aesthetics.  
 
 ---
