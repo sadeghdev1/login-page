@@ -1,13 +1,33 @@
-# React + Vite
+# Login Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A sleek and modern **Login Page** built with **React.js**.  
+This mini-project demonstrates a fully responsive login interface with **interactive UI**, **glowing effects**, and a smooth **glassmorphism style** similar to GitHub and iPhone aesthetics.  
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🔹 Features
 
-## Expanding the ESLint configuration
+- Fully responsive design (mobile & desktop)
+- Modern **glass-style UI** with glowing effects
+- **Interactive inputs** using Material-UI TextFields
+- Smooth **hover and focus animations**
+- Mini project ideal for **React.js practice** and portfolio showcase
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-# login-page
+---
+
+## 🔹 Technologies & Tools Used
+
+- **Languages:** HTML5, CSS3, JavaScript (ES6+)
+- **Frameworks/Libraries:** React.js, Material-UI
+- **Styling:** SCSS, CSS3, Glassmorphism, Glow effects
+- **Tools:** VS Code, Git, GitHub, GitHub Pages
+- **Version Control:** Git & GitHub for project tracking
+- **Other:** Responsive Web Design, UI/UX Design Principles, Form Handling
+
+---
+
+## 🔹 Demo
+
+Check out the live demo: [Login Page Live](https://sadeghdev1.github.io/login-page)
+
+---
