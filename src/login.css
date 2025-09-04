@@ -35,7 +35,6 @@ body {
 .login-card {
   width: 350px;
   padding: 2rem;
-  max-width: 400px;
   border-radius: 20px;
   backdrop-filter: blur(15px);
   color: #fff;
@@ -74,4 +73,3 @@ body {
   transform: scale(1.04);
   box-shadow: 0 0 20px rgba(106, 0, 244, 0.6), 0 0 30px rgba(0, 255, 200, 0.5);
 }
-
