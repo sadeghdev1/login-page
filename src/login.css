@@ -1,7 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
 body {
   min-height: 100vh; 
+  display: flex;
+  width: 100%;
+  height: 100%;
   background: radial-gradient(circle at top left, #6a00f4, #090979, #000000);
+  background-size: cover;
+  background-position: center;
   overflow: hidden;
+  justify-content: center;
+  align-items: center;
+  padding: 1rem;
 }
 
 .glow {
@@ -21,6 +35,7 @@ body {
 .login-card {
   width: 350px;
   padding: 2rem;
+  max-width: 400px;
   border-radius: 20px;
   backdrop-filter: blur(15px);
   color: #fff;
@@ -58,4 +73,16 @@ body {
 .login-card button:hover {
   transform: scale(1.04);
   box-shadow: 0 0 20px rgba(106, 0, 244, 0.6), 0 0 30px rgba(0, 255, 200, 0.5);
+}
+
+@media (max-width: 480px) {
+  .login-card {
+    padding: 1.2rem;
+    max-width: 90%;
+  }
+
+  .login-card input,
+  .login-card button {
+    font-size: 14px;
+  }
 }
